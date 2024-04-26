@@ -12,6 +12,8 @@
 		C2AFCE422BDBB7F70049CF3D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2AFCE412BDBB7F70049CF3D /* ViewController.swift */; };
 		C2AFCE472BDBB7F80049CF3D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C2AFCE462BDBB7F80049CF3D /* Assets.xcassets */; };
 		C2AFCE4A2BDBB7F80049CF3D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C2AFCE482BDBB7F80049CF3D /* LaunchScreen.storyboard */; };
+		C2AFCE562BDBF68E0049CF3D /* SearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2AFCE552BDBF68E0049CF3D /* SearchViewController.swift */; };
+		C2AFCE582BDBF6980049CF3D /* FavouritesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2AFCE572BDBF6980049CF3D /* FavouritesViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		C2AFCE462BDBB7F80049CF3D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C2AFCE492BDBB7F80049CF3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C2AFCE4B2BDBB7F80049CF3D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C2AFCE552BDBF68E0049CF3D /* SearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewController.swift; sourceTree = "<group>"; };
+		C2AFCE572BDBF6980049CF3D /* FavouritesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavouritesViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 				C2AFCE462BDBB7F80049CF3D /* Assets.xcassets */,
 				C2AFCE482BDBB7F80049CF3D /* LaunchScreen.storyboard */,
 				C2AFCE4B2BDBB7F80049CF3D /* Info.plist */,
+				C2AFCE552BDBF68E0049CF3D /* SearchViewController.swift */,
+				C2AFCE572BDBF6980049CF3D /* FavouritesViewController.swift */,
 			);
 			path = "GitHub Followers";
 			sourceTree = "<group>";
@@ -136,6 +142,8 @@
 			files = (
 				C2AFCE422BDBB7F70049CF3D /* ViewController.swift in Sources */,
 				C2AFCE3E2BDBB7F70049CF3D /* AppDelegate.swift in Sources */,
+				C2AFCE562BDBF68E0049CF3D /* SearchViewController.swift in Sources */,
+				C2AFCE582BDBF6980049CF3D /* FavouritesViewController.swift in Sources */,
 				C2AFCE402BDBB7F70049CF3D /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
